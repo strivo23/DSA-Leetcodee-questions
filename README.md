@@ -6,9 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0875-koko-eating-bananas) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
