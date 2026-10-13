@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0169-majority-element) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0049-group-anagrams) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
@@ -47,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0229-majority-element-ii) |
