@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0075-sort-colors) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
