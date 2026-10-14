@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0125-valid-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0125-valid-palindrome) |
 ## Quicksort
 |  |
 | ------- |
