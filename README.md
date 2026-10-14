@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0217-contains-duplicate) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0875-koko-eating-bananas](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0875-koko-eating-bananas) |
 ## Sliding Window
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/strivo23/DSA-Leetcodee-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Quicksort
 |  |
 | ------- |
