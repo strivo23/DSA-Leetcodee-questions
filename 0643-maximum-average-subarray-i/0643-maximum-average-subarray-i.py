@@ -4,6 +4,6 @@ class Solution(object):
         max_sum = csum
         n = len(nums)
         for i in range(k, n):
-            csum += nums[i]-nums[i-k]
-            max_sum = max(csum, max_sum)
+            csum += nums[i] - nums[i-k]
+            max_sum = max(max_sum, csum)
         return max_sum / float(k)
